@@ -12,29 +12,43 @@ Exceptional Educator and Mentor: Known for clear, structured training programs t
 Technical Skills
 
 ✅ Network Design, Implementation, and Optimization
+
 ✅ Advanced Troubleshooting and Performance Monitoring
+
 ✅ Data Validation and Error Detection
+
 ✅ Hardware and Equipment Configuration (Cisco and Juniper devices)
+
 ✅ Scripting and Automation: Python, Java
+
 ✅ Operating Systems Expertise: Rocky Linux 9, Linux Essentials
+
 ✅ Cloud Fundamentals: AWS Cloud
+
 ✅ Deep Knowledge of Protocols: OSPF, BGP, VLANs, STP, MPLS
 
 Certifications
 
 🏆 Cisco CCNA
+
 🏆 Juniper Networks JNCIA
+
 🏆 LPIC-1 (Linux Professional Institute Certification)
+
 🏆 Linux Essentials
 
 Soft Skills
 
 ✅ Analytical and Critical Thinking
+
 ✅ Proactive Risk Assessment and Mitigation
+
 ✅ Patient and Effective Communication
+
 ✅ Bilingual Fluency: English and Portuguese
 
 📈 Additional Highlights
+
 Delivered tailored training programs for diverse learners, bridging gaps between technical and non-technical audiences.
 Proven track record of driving system upgrades, optimizing network uptime, and reducing operational costs.
 Strong experience with cloud environments, open-source platforms, and modern infrastructure tools.
