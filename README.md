@@ -44,9 +44,3 @@ Soft Skills
 ✅ Patient and Effective Communication
 
 ✅ Bilingual Fluency: English and Portuguese
-
-📈 Additional Highlights
-
-Delivered tailored training programs for diverse learners, bridging gaps between technical and non-technical audiences.
-Proven track record of driving system upgrades, optimizing network uptime, and reducing operational costs.
-Strong experience with cloud environments, open-source platforms, and modern infrastructure tools.
