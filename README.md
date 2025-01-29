@@ -1,6 +1,8 @@
 🌐 Professional Summary
 
-A results-driven Network Engineer with over 10 years of proven expertise in designing, configuring, and optimizing advanced network communication systems. Certified in Cisco CCNA and Juniper Networks JNCIA, with 5+ years of experience as a dynamic instructor teaching Linux, English, Portuguese, Cisco, and Juniper technologies. Renowned for exceptional problem-solving, strong communication skills, and the ability to simplify complex technical concepts for diverse audiences. Adept at balancing technical acumen with leadership and mentorship, empowering teams to achieve excellence in both technical and soft skills.
+A results-driven Network Engineer with over 10 years of proven expertise in designing, configuring, and optimizing advanced network communication systems. Certified in Cisco CCNA, Juniper Networks JNCIA, and LPIC-1, with deep knowledge of physical and virtual models of Riverbed equipment such as Steelhead and SD-WAN. Specialized in scripting and automation with Python and Java, network security, and cloud infrastructure, including AWS Fundamentals and Linux-based environments like Rocky Linux 9. Adept at implementing secure, high-performance networks, troubleshooting complex issues, and optimizing infrastructure using key protocols such as OSPF, BGP, VLANs, STP, and MPLS.
+
+With over five years as an instructor, he has successfully delivered tailored training programs in Linux, English, Portuguese, Cisco, and Juniper technologies, empowering learners with structured, real-world applications. Recognized for his analytical mindset, proactive risk assessment, and effective communication skills, he bridges the gap between technical and non-technical audiences. A bilingual professional (English and Portuguese), he excels in balancing technical expertise with leadership and mentorship, fostering individual and team growth while driving system upgrades and reducing operational costs.
 
 ✨ Why Choose Me?
 
