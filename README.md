@@ -33,11 +33,7 @@ Certifications
 
 🏆 Cisco CCNA
 
-🏆 Juniper Networks JNCIA
-
-🏆 LPIC-1 (Linux Professional Institute Certification)
-
-🏆 Linux Essentials
+🏆 Salesforce Developer 1
 
 Soft Skills
 
