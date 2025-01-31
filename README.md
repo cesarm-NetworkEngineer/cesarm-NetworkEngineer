@@ -1,45 +1,36 @@
-🌐 Professional Summary
+🌐 Resumen Profesional
 
-A results-driven Network Engineer with over 10 years of experience in designing, configuring, and optimizing network infrastructures. Certified in Cisco CCNA, Juniper Networks JNCIA, and LPIC-1, with expertise in physical network equipment from Juniper, Cisco, Meraki, and Fortinet. Proficient in key networking protocols such as OSPF, BGP, VLANs, STP, and MPLS, ensuring high-performance and secure connectivity. Skilled in cloud infrastructure, particularly AWS, and Linux-based environments like Rocky Linux 9, with a strong focus on automation and scripting using Java, Apex, JSON, and Python. 
+Desarrollador de Salesforce y experto en programación con una sólida trayectoria en redes y tecnologías de la información. Con más de 10 años de experiencia en TI, combina habilidades avanzadas en desarrollo con Apex, Java, Python y JSON, optimizando soluciones en la nube e integraciones empresariales. Certificado en Cisco CCNA, Juniper Networks JNCIA y LPIC-1, con amplio dominio en redes físicas y virtuales, incluyendo equipos de Juniper, Cisco, Meraki y Fortinet. Experto en protocolos clave como OSPF, BGP, VLANs, STP y MPLS, asegurando conectividad segura y eficiente.
 
-With over five years as an instructor, he has successfully delivered structured training programs in Linux, English, Portuguese, Cisco, and Juniper technologies, equipping learners with practical, real-world skills. A bilingual professional (English and Portuguese), he combines technical expertise with leadership and mentorship, fostering team growth while optimizing network performance and reducing operational costs. Recognized for his analytical mindset, proactive problem-solving, and ability to communicate complex technical concepts to diverse audiences. 
+Con experiencia en infraestructura en la nube, especialmente en AWS, y en entornos Linux como Rocky Linux 9, se especializa en automatización y optimización de procesos. Como instructor con más de cinco años de experiencia, ha capacitado a profesionales en Linux, Salesforce, redes y programación, ofreciendo formación práctica y aplicada.
 
-✨ Why Choose Me?
+Bilingüe en inglés y portugués, destaca por su capacidad para traducir conceptos técnicos complejos a diferentes audiencias, liderazgo en equipos de TI y enfoque en la mejora continua de procesos y costos operativos.
 
-Innovative Problem-Solver: Skilled in identifying risks and implementing strategic solutions to optimize network performance and security. 
-Resilient Under Pressure: Thrives in high-stakes environments, delivering results under tight deadlines without compromising quality. 
-Exceptional Educator and Mentor: Known for clear, structured training programs that enhance individual and team development.
+✨ ¿Por qué elegirme? 
 
-💼 Key Skills Technical Skills
+🔹 Innovador en la resolución de problemas: Experto en identificar riesgos e implementar soluciones estratégicas para optimizar el rendimiento y la seguridad de la red. 
+🔹 Resiliente bajo presión: Se desenvuelve con éxito en entornos de alta exigencia, entregando resultados en plazos ajustados sin comprometer la calidad. 
+🔹 Educador y mentor excepcional: Destacado por desarrollar programas de formación claros y estructurados que potencian el crecimiento individual y del equipo. 
 
-✅ Network Design, Implementation, and Optimization
+💼 Habilidades Clave
 
-✅ Advanced Troubleshooting and Performance Monitoring
+✅ Diseño, implementación y optimización de redes 
+✅ Solución avanzada de problemas y monitoreo de rendimiento 
+✅ Validación de datos y detección de errores 
+✅ Configuración de hardware y equipos (dispositivos Cisco y Juniper) 
+✅ Scripting y automatización: Python, Java 
+✅ Sistemas operativos: Rocky Linux 9, Linux Essentials 
+✅ Fundamentos de la nube: AWS Cloud 
+✅ Profundo conocimiento de protocolos: OSPF, BGP, VLANs, STP, MPLS 
 
-✅ Data Validation and Error Detection
+🏆 Certificaciones
 
-✅ Hardware and Equipment Configuration (Cisco and Juniper devices)
+✅ Cisco CCNA 
+✅ Salesforce Developer 1 
 
-✅ Scripting and Automation: Python, Java
+🛠 Habilidades Blandas
 
-✅ Operating Systems Expertise: Rocky Linux 9, Linux Essentials
-
-✅ Cloud Fundamentals: AWS Cloud
-
-✅ Deep Knowledge of Protocols: OSPF, BGP, VLANs, STP, MPLS
-
-Certifications
-
-🏆 Cisco CCNA
-
-🏆 Salesforce Developer 1
-
-Soft Skills
-
-✅ Analytical and Critical Thinking
-
-✅ Proactive Risk Assessment and Mitigation
-
-✅ Patient and Effective Communication
-
-✅ Bilingual Fluency: English and Portuguese
+✅ Pensamiento analítico y crítico 
+✅ Evaluación y mitigación proactiva de riesgos 
+✅ Comunicación paciente y efectiva 
+✅ Fluidez bilingüe: inglés y portugués
