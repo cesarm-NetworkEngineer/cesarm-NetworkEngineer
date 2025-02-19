@@ -1,28 +1,24 @@
-🌐 Resumen Profesional
+🌐 Professional Summary
 
-Profesional altamente calificado en Inteligencia Artificial (IA) y tecnologías de la información, con más de 10 años de experiencia en soluciones innovadoras basadas en Apex, Java, Python y JSON, y con especialización en IA en la nube. Con experiencia en administración y soporte ejecutivo, ha desarrollado habilidades clave en gestión de proyectos, automatización de procesos y optimización del rendimiento.
+Highly qualified Artificial Intelligence (AI) and Information Technology professional with over 10 years of experience in developing innovative solutions using Apex, Java, Python, and JSON, with a specialization in AI for cloud environments. With expertise in executive administration and support, I have developed key skills in project management, process automation, and performance optimization.
 
-🔹 Experiencia en Administración y Soporte Ejecutivo
+🔹 Experience in Administration and Executive Support
+✔ Email and calendar management using Google Workspace and automation tools.
+✔ Meeting coordination and communication with clients and vendors.
+✔ Efficient data handling and analysis for decision-making.
+✔ Supervision of administrative tasks and project documentation.
 
-✔ Gestión de correo y calendario mediante Google Workspace y herramientas de automatización.
-✔ Coordinación de reuniones y comunicación con clientes y proveedores.
-✔ Manejo eficiente de datos y análisis para la toma de decisiones.
-✔ Supervisión de tareas administrativas y documentación de proyectos.
+🔹 Specialization in Technology and AI
+✔ Development of AI-powered applications and solutions for networks and systems.
+✔ Administration and optimization of cloud infrastructures with AWS and Rocky Linux 9.
+✔ Advanced network design and management with Cisco, Juniper, and Fortinet.
+✔ Cybersecurity and risk mitigation in enterprise environments.
 
-🔹 Especialización en Tecnología e IA
+🔹 Key Skills
+✔ Critical thinking and problem-solving.
+✔ Team management and mentoring in tech environments.
+✔ Effective communication and fluency in Spanish (native), English, and Portuguese (C1).
 
-✔ Desarrollo de aplicaciones y soluciones IA en redes y sistemas.
-✔ Administración y optimización de infraestructuras en la nube con AWS y Rocky Linux 9.
-✔ Diseño y gestión de redes avanzadas con Cisco, Juniper y Fortinet.
-✔ Seguridad informática y mitigación de riesgos en entornos empresariales.
-
-🔹 Habilidades Clave
-
-✔ Pensamiento crítico y resolución de problemas.
-✔ Gestión de equipos y mentoría en entornos tecnológicos.
-✔ Comunicación efectiva y fluidez en español, inglés y portugués (C1).
-
-🏆 Certificaciones
-
+🏆 Certifications
 ✔ Cisco CCNA | Juniper JNCIA | LPIC-1 | Salesforce Developer 1
-✔ AWS Certified (en progreso)
+✔ AWS Certified (in progress)
