@@ -4,7 +4,7 @@ Network Engineer with 10+ years of experience building, securing, and optimizing
 
 Strong background in Linux (Rocky Linux 9), AWS Cloud, and automation (Python, Java, JSON, Apex), combining traditional networking foundations with modern, scalable solutions.
 
-With 5+ years as an instructor, I transform complex technical concepts into clear, practical knowledge—training professionals in networking, Linux, and languages while fostering confidence and real-world skills.
+With 5+ years as an instructor, I transform complex technical concepts into clear, practical knowledge, training professionals in networking, Linux, and languages while fostering confidence and real-world skills.
 
 Bilingual (English & Portuguese), I bring together technical depth, leadership, and mentorship to improve performance, reduce costs, and build strong, capable teams.
 
