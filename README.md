@@ -1,53 +1,19 @@
-🌐 Professional Summary
+## About
 
-Network Engineer with 10+ years of experience building, securing, and optimizing reliable network infrastructures. CCNA, JNCIA, and LPIC-1 certified, with hands-on expertise in Cisco, Juniper, Fortinet, and Meraki, and deep knowledge of OSPF, BGP, VLANs, STP, and MPLS.
+I am a Network Engineer with more than 10 years of experience in designing, implementing, managing, and optimizing technology infrastructures. Throughout my career, I have worked with Cisco, Juniper, Fortinet, and Meraki technologies, delivering secure, scalable, and results-driven solutions.
 
-Strong background in Linux (Rocky Linux 9), AWS Cloud, and automation (Python, Java, JSON, Apex), combining traditional networking foundations with modern, scalable solutions.
+I hold internationally recognized certifications including Cisco CCNA, Juniper JNCIA, LPIC-1, and Salesforce Developer I, supported by hands-on experience in Routing & Switching, network security, Linux system administration, and cloud services. My technical expertise includes protocols and technologies such as OSPF, BGP, VLANs, STP, and MPLS, as well as automation using Python, Java, JSON, and Apex.
 
-With 5+ years as an instructor, I transform complex technical concepts into clear, practical knowledge, training professionals in networking, Linux, and languages while fostering confidence and real-world skills.
+In addition to my technical background, I have dedicated more than five years to training and mentoring professionals in networking, Linux, AWS, programming, English, and Portuguese. As an instructor, I enjoy transforming complex technical concepts into practical, easy-to-understand knowledge, helping students and professionals develop skills that can be applied in real-world environments.
 
-Bilingual (English & Portuguese), I bring together technical depth, leadership, and mentorship to improve performance, reduce costs, and build strong, capable teams.
+My areas of specialization include:
 
-✨ What I Bring
+• Network design, optimization, and troubleshooting.
+• Cisco, Juniper, Fortinet, and Meraki technologies.
+• Linux (Rocky Linux) and AWS Cloud Computing.
+• Automation and development with Python, Java, JSON, and Apex.
+• Technical training, mentoring, and professional development.
 
-Problem Solver – Practical, secure, and efficient network solutions
+I am recognized for my analytical mindset, leadership skills, and clear, effective communication. As a bilingual professional in English and Portuguese, I combine technical expertise, hands-on experience, and a passion for education to help organizations and individuals achieve their technology goals.
 
-Calm Under Pressure – Proven performance in high-demand environments
-
-Educator at Heart – Clear, engaging, results-focused training
-
-🔑 Core Skills
-
-Network Design, Optimization & Troubleshooting
-
-Cisco, Juniper, Fortinet, Meraki
-
-Linux (Rocky Linux 9) & AWS Cloud
-
-Automation: Python, Java, JSON, Apex
-
-Routing & Switching: OSPF, BGP, VLANs, STP, MPLS
-
-🎓 Certifications
-
-Cisco CCNA
-
-Juniper JNCIA
-
-LPIC-1
-
-Salesforce Developer I
-
-🤝 Strengths
-
-Analytical & Critical Thinking
-
-Risk Assessment & Mitigation
-
-Clear, Effective Communication
-
-Leadership & Mentorship
-
-Bilingual: English & Portuguese
-
-💡 Technology isn’t just about networks—it’s about enabling people, stability, and progress.
+I firmly believe that technology is not only about connecting devices, but also about creating opportunities, driving innovation, and enabling growth.
